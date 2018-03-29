@@ -1,3 +1,14 @@
+# This project used electron, bootstrap, JSON, npm
+1. electron: follow the below electron steps to create it.
+2. npm: **npm init**, **npm start**, ...
+3. bootstrap: make button and frame more beautiful
+4. JSON: find the address and parse it
+[Package] If you want to make portable application, you can $npm install electron-packager -g
+
+Reference: https://github.com/electron-userland
+
+
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
